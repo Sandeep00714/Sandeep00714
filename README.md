@@ -1,8 +1,7 @@
 <div align="center">
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Sandeep%20Kumar&height=220&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML&descAlignY=70&descColor=a78bfa" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Sandeep%20Kumar&height=220&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20ML&descAlignY=70&descColor=a78bfa" />
 </div>
 
 <div align="center">
